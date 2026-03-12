@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+D:\java\eclipse\reserva_hotel\.metadata\.plugins\org.eclipse.jdt.core
-3691809866.index
-1865797976.index
-3729101479.index
