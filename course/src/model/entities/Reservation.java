@@ -45,7 +45,7 @@ public class Reservation {
 			return "Erro in reservation: Reservation dates for update must be future dates";
 		}
 		if (!checkOut.isAfter(checkIn)) {
-			return "Erro in reservation: Check-out date must be after check-in date";
+			return "Erro in reservation: Check-out date must be after check-in date ";
 		}
 
 		this.checkIn = checkIn;

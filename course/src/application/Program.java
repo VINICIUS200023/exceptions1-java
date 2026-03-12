@@ -45,7 +45,7 @@ public class Program {
 				System.out.println("Erro in reservation: " + error);
 			} else {
 				reservation.updateDates(checkIn, checkOut);
-				System.out.println("Reservation:" + reservation);
+				System.out.println("Reservation: " + reservation);
 			}
 
 		}
